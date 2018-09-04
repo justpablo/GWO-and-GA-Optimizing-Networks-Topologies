@@ -1,5 +1,5 @@
 # GWO-and-GA-Optimizing-Networks-Topologies
-Generation of Complex Networks Topologies by Swarm Intelligence
+Generation of Complex Networks Topologies by Swarm Intelligence Grey Wolf Optimizer and Genetic Algorithms
 
 
 ### Company: Universitat Rovira i Virgili (URV)
